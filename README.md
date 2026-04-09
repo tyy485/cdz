@@ -1,2 +1,1 @@
-# 仅供学习参考，非商用，如侵权，请联系删除。
-# For learning reference only, not for commercial use, if infringement, please contact to delete.
+# 一个简单的吃豆子小游戏，目前只支持中文，如果你不属于中国人，可以试试使用翻译器等工具，你的目标是不断地拖动方块尽量多吃黄色的豆子，不要碰到红色的障碍
